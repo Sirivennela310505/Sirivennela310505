@@ -1,4 +1,4 @@
-# Hi, I'm Siri Vennela 👋
+# Hi, I'm Siri Vennela
 
 🎓 **B.Tech Information Technology | Malla Reddy University (2024–2028)**
 
@@ -7,7 +7,6 @@ Aspiring Software Developer passionate about building full-stack applications an
 ### 💻 Technical Skills
 - **Languages:** Java, JavaScript, SQL
 - **Frontend:** HTML, CSS, React.js
-- **Backend:** Node.js, Express.js
 - **Tools:** Git, GitHub, VS Code
 - **Core Concepts:** DSA, OOP, DBMS
 
