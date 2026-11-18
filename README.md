@@ -1,24 +1,27 @@
-# Hi, I'm Sirivennela 👋
+# Hi, I'm Siri Vennela 👋
 
-🎓 B.Tech IT Student | 2028 Batch
+🎓 **B.Tech Information Technology | Malla Reddy University (2024–2028)**
 
-💻 Aspiring Software Developer
+Aspiring Software Developer passionate about building full-stack applications and solving real-world problems through technology.
 
-- Learning Data Structures & Algorithms in Java
-- Building Full Stack Web Applications
-- Exploring AI/ML and Backend Development
+### 💻 Technical Skills
+- **Languages:** Java, JavaScript, SQL
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Express.js
+- **Tools:** Git, GitHub, VS Code
+- **Core Concepts:** DSA, OOP, DBMS
 
-## Skills
-- Java
-- HTML, CSS, JavaScript
-- React
-- SQL
+### 🚀 Featured Projects
+- **NEXORA** – AI-powered adaptive learning navigator.
+- **Image Vault** – Secure communication using AES encryption and steganography.
+- **KrishiRaksha AI** – AI-powered farmer decision-support platform.
 
-## Projects
-- Uniskill Nexus
-- NEXORA
-- KrishiRaksha
+### 🏆 Achievements
+- 2nd Place – EduAgent-2K26 AI Agents Hackathon.
+- Round 2 – HCLTech AMPlified AI Challenge.
+- LeetCode 50 Days Badge.
 
-## Connect with me
-- LinkedIn: Your LinkedIn URL
-- GitHub: https://github.com/Sirivennela310505
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/kalva-siri-vennela31/)
+- [GitHub](https://github.com/Sirivennela310505)
+- Email: sirivennelakalva3105@gmail.com
